@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to BRADIPAO blog
 
-I'm glad you are here. I plan to talk about ...
+Benvenuti nel blog di BRADIPAO
+
+Quest è la prima prova di sito in GitHub
