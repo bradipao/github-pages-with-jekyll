@@ -3,6 +3,7 @@ author: bradipao
 email: bradipao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Prima prova di sito in GitHub.
+theme: minima
 
 # social links
 twitter_username: bradipao # DO NOT include the @ character, or else the build will fail!
